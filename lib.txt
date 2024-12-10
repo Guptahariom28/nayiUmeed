@@ -1,0 +1,7 @@
+langchain == 0.3.10
+langchain-community == 0.3.10
+wikipedia == 1.4.0
+streamlit
+arxiv
+faiss-cpu
+sentence-transformers
